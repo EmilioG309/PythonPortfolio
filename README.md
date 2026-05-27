@@ -29,7 +29,7 @@ Key Features:
 - Level‑up mechanics
 - Stat progression
 
-🐶 IMAGES
+🐶 DOG FINDER
 Summary: A dog‑breed matching tool that asks users a series of questions to determine their ideal dog breed. It then displays a photo of the recommended match.
 Key Features:
 - Question‑based breed matching
@@ -50,7 +50,7 @@ Key Features:
 - Revenue gain/loss calculator
 - Subscriber growth analysis
 
-➗ CALC
+➗ CALCULATOR
 Summary: A simple calculator that performs basic math operations using user input. Designed for quick arithmetic and clean functionality.
 Key Features:
 - Basic operations (add, subtract, multiply, divide)
